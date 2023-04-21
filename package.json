@@ -12,6 +12,6 @@
     "build": "turbo run build"
   },
   "devDependencies": {
-    "turbo": "^1.8.3"
+    "turbo": "^1.9.3"
   }
 }
